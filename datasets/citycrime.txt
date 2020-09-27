@@ -1,0 +1,9 @@
+City	Police	Crimes
+Oxford	15	17
+Straksville	17	13
+Danville	25	5
+Athens	27	7
+Holgate	17	7
+Carey	12	21
+Whistler	11	19
+Woodville	22	6
